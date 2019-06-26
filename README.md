@@ -2,9 +2,9 @@
 
 "Today we’re going to learn what relational databases [are], when you should use them and how to interact with SQL datasets on Kaggle. Let’s jump right in" :
 
-* Notebook with today’s lesson
-* Notebook with exercises for today’s lesson (if you want to save your work, be sure to sign in to your Kaggle account!)
-* Livestream (recording) from 4:00 PM GMT
+* [Notebook](https://www.kaggle.com/dansbecker/getting-started-with-sql-and-bigquery) with today’s lesson
+* [Notebook](https://www.kaggle.com/mbeveridge/exercise-getting-started-with-sql-and-bigquery/edit) with exercises for today’s lesson (if you want to save your work, be sure to sign in to your Kaggle account!)
+* [Livestream (recording)](https://www.youtube.com/watch?v=jYQoQfFzJRw) from 4:00 PM GMT
 
 
 ## Day 2
