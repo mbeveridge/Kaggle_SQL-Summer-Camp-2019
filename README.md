@@ -12,7 +12,9 @@
 
 * **1. Getting Started with SQL and BigQuery** : [Notebook](https://www.kaggle.com/dansbecker/getting-started-with-sql-and-bigquery) with lesson
 * **2. Exercise : Getting Started with SQL and BigQuery** : [Notebook](https://www.kaggle.com/mbeveridge/exercise-getting-started-with-sql-and-bigquery/edit) with exercises. (If you want to save your work, be sure to sign in to your Kaggle account! ...*else work will disappear after 15min*)
-* [Livestream (recording)](https://www.youtube.com/watch?v=jYQoQfFzJRw) from 4:00 PM GMT
+* [Livestream (recording)](https://www.youtube.com/watch?v=jYQoQfFzJRw) (~30min + 30min Q&A) [*@31'45 how to use R instead of Python*] [*@38'50-39'40 What problem does BigQuery solve? Run queries v quickly, even if dataset is v large*]
+
+*To use BigQuery, we'll import the Python package `bigquery`. Then create a `Client` object. Create a reference to our `hacker_news` dataset (which is in `bigquery-public-data` project) and then we can fetch the dataset. Similarly, create a reference to an individual table (which is in the dataset) and then we can fetch the table*
 
 
 ## Day 2
