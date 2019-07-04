@@ -27,7 +27,9 @@
 
 * **3. Select, From & Where** : [Notebook](https://www.kaggle.com/dansbecker/select-from-where) with lesson
 * **4. Exercise: Select, From & Where** : [Notebook](https://www.kaggle.com/mbeveridge/exercise-select-from-where/edit) with exercises
-* [Livestream (recording 26/6/19)](https://www.youtube.com/watch?v=VljQui5es7g)
+* [Livestream (recording 26/6/19)](https://www.youtube.com/watch?v=VljQui5es7g) (~30min + 30min Q&A) [*[@15'50](https://youtu.be/VljQui5es7g?t=950) "Now let's write a query"*]
+
+*openaq dataset*
 
 
 ## Day 3
