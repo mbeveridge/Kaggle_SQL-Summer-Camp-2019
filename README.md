@@ -40,15 +40,8 @@
 
 "Today we’re going to learn how to write SQL queries that will help summarize the data in the database and let you ask more complicated questions"
 
-<<<<<<< HEAD
 * **5. Group By, Having & Count** : [Notebook](https://www.kaggle.com/dansbecker/group-by-having-count) with lesson
 * **6. Exercise: Group By, Having & Count** : [Notebook](https://www.kaggle.com/mbeveridge/exercise-group-by-having-count/edit) with exercises
-* [Livestream (recording 27/6/19)](https://www.youtube.com/watch?v=dV74IWUkI8Q) (~30min + 30min Q&A) []
+* [Livestream (recording 27/6/19)](https://www.youtube.com/watch?v=dV74IWUkI8Q) (~30min + 30min Q&A) [[@]()]
 
 *['Kaggle > Discussion > Learn'](https://www.kaggle.com/learn-forum) for the forum, to ask questions"*
-
-=======
-* **5. Group By, Having & Count** : [Notebook] with lesson
-* **6. Exercise: Group By, Having & Count** : [Notebook] with exercises
-* [Livestream (recording 27/6/19)] (~30min + 30min Q&A)
->>>>>>> master
