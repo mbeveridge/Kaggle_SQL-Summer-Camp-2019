@@ -42,6 +42,8 @@
 
 * **5. Group By, Having & Count** : [Notebook](https://www.kaggle.com/dansbecker/group-by-having-count) with lesson
 * **6. Exercise: Group By, Having & Count** : [Notebook](https://www.kaggle.com/mbeveridge/exercise-group-by-having-count/edit) with exercises
-* [Livestream (recording 27/6/19)](https://www.youtube.com/watch?v=dV74IWUkI8Q) (~30min + 30min Q&A) [[@]()]
+* [Livestream (recording 27/6/19)](https://www.youtube.com/watch?v=dV74IWUkI8Q) (~30min + 30min Q&A) [*[@4'11](https://youtu.be/dV74IWUkI8Q?t=251) "I can see that I have this kernel running. And you can only have 4 kernels running"*] [*[@6'06](https://youtu.be/dV74IWUkI8Q?t=366) "Today we're going to learn how to aggregate, and how to start asking questions using SQL code" (instead of Python, R)*]
+
+*Rachel's ['Group by, having & count scratchpad'](https://www.kaggle.com/rebeccaturner/group-by-having-count-scratchpad) kernel, created during Livestream*
 
 *['Kaggle > Discussion > Learn'](https://www.kaggle.com/learn-forum) for the forum, to ask questions"*
