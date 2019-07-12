@@ -36,7 +36,7 @@
 *['Kaggle > Discussion > Learn'](https://www.kaggle.com/learn-forum) for the forum, to ask questions*
 
 
-## Day 3
+## Day 3 (2019-06-27)
 
 "Today we’re going to learn how to write SQL queries that will help summarize the data in the database and let you ask more complicated questions"
 
