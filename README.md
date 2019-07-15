@@ -1,3 +1,5 @@
+# SQL Summer Camp 2019
+
 
 *"The course that we're doing is the [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) course, with some additional stuff from me" -- Rachael Tatman (Livestream, Day1 [@1'03](https://youtu.be/jYQoQfFzJRw?t=63))*
 
@@ -47,3 +49,6 @@
 *Rachel's ['Group by, having & count scratchpad'](https://www.kaggle.com/rebeccaturner/group-by-having-count-scratchpad) kernel, created during Livestream*
 
 *['Kaggle > Discussion > Learn'](https://www.kaggle.com/learn-forum) for the forum, to ask questions*
+
+
+## Day 4 (2019-07-16)
