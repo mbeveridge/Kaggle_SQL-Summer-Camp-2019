@@ -55,6 +55,9 @@
 
 "Today we’re going to talk about how to sort the data you get back from your query and, even more importantly, how to deal with dates"
 
-* **7. Order By, Extract & Dates** : [Notebook]() with lesson
+* **7. Order By, Extract & Dates** : [Notebook](https://www.kaggle.com/dansbecker/order-by) with lesson
 * **8. Exercise: Order By, Extract & Dates** : [Notebook]() with exercises
-* [Livestream (recording 16/7/19)]() (~30min + 30min Q&A) []
+* [Livestream (recording 16/7/19)](https://www.youtube.com/watch?v=jEdgQ-RVmXw) (~30min + 30min Q&A) []
+
+*['Kaggle > Discussion > Learn'](https://www.kaggle.com/learn-forum) for the forum, to ask questions*
+
