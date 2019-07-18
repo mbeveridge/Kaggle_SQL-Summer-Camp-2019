@@ -52,3 +52,9 @@
 
 
 ## Day 4 (2019-07-16)
+
+"Today we’re going to talk about how to sort the data you get back from your query and, even more importantly, how to deal with dates"
+
+* **7. Order By, Extract & Dates** : [Notebook]() with lesson
+* **8. Exercise: Order By, Extract & Dates** : [Notebook]() with exercises
+* [Livestream (recording 16/7/19)]() (~30min + 30min Q&A) []
