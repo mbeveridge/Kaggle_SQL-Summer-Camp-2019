@@ -56,8 +56,18 @@
 "Today we’re going to talk about how to sort the data you get back from your query and, even more importantly, how to deal with dates"
 
 * **7. Order By, Extract & Dates** : [Notebook](https://www.kaggle.com/dansbecker/order-by) with lesson
-* **8. Exercise: Order By, Extract & Dates** : [Notebook]() with exercises
+* **8. Exercise: Order By, Extract & Dates** : [Notebook](https://www.kaggle.com/mbeveridge/kernelafe7322583/edit) with exercises
 * [Livestream (recording 16/7/19)](https://www.youtube.com/watch?v=jEdgQ-RVmXw) (~30min + 30min Q&A) []
 
 *['Kaggle > Discussion > Learn'](https://www.kaggle.com/learn-forum) for the forum, to ask questions*
 
+
+## Day 5 (2019-07-17)
+
+"At this point we know quite a few SQL commands. As you write bigger and more complex queries, it becomes more important to break them into small, understandable chunks. Today we’ll learn how to do this using WITH and AS"
+
+* **9. As & With** : [Notebook](https://www.kaggle.com/dansbecker/as-with) with lesson
+* **10. As & With** : [Notebook](https://www.kaggle.com/mbeveridge/exercise-as-with/edit) with exercises
+* [Livestream (recording 17/7/19)](https://www.youtube.com/watch?v=Hk3OK2G5U5I) (~30min + 30min Q&A) []
+
+*['Kaggle > Discussion > Learn'](https://www.kaggle.com/learn-forum) for the forum, to ask questions*
