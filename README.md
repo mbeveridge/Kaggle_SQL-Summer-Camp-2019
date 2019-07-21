@@ -57,7 +57,7 @@
 
 * **7. Order By, Extract & Dates** : [Notebook](https://www.kaggle.com/dansbecker/order-by) with lesson
 * **8. Exercise: Order By, Extract & Dates** : [Notebook](https://www.kaggle.com/mbeveridge/kernelafe7322583/edit) with exercises
-* [Livestream (recording 16/7/19)](https://www.youtube.com/watch?v=jEdgQ-RVmXw) (~30min + 30min Q&A) []
+* [Livestream (recording 16/7/19)](https://www.youtube.com/watch?v=jEdgQ-RVmXw) (~30min + 30min Q&A) [*[@4'00](https://youtu.be/jEdgQ-RVmXw?t=240) "That's not so good. So I should be able to see a copy of the data in the database"*]
 
 *['Kaggle > Discussion > Learn'](https://www.kaggle.com/learn-forum) for the forum, to ask questions*
 
