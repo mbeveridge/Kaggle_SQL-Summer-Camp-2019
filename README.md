@@ -68,6 +68,6 @@
 
 * **9. As & With** : [Notebook](https://www.kaggle.com/dansbecker/as-with) with lesson
 * **10. As & With** : [Notebook](https://www.kaggle.com/mbeveridge/exercise-as-with/edit) with exercises
-* [Livestream (recording 17/7/19)](https://www.youtube.com/watch?v=Hk3OK2G5U5I) (~30min + 30min Q&A) []
+* [Livestream (recording 17/7/19)](https://www.youtube.com/watch?v=Hk3OK2G5U5I) (~30min + 30min Q&A) [*[@5'40](https://youtu.be/Hk3OK2G5U5I?t=340) "So that's how `AS` works"*] [*[@6'10](https://youtu.be/Hk3OK2G5U5I?t=370) "But we can also use `WITH` [and `AS`] to refer to an entire table that we have `SELECT` & created" (...as a variable, but only within scope of that query)*]
 
 *['Kaggle > Discussion > Learn'](https://www.kaggle.com/learn-forum) for the forum, to ask questions*
