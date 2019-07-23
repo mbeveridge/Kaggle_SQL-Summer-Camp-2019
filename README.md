@@ -68,6 +68,8 @@
 
 * **9. As & With** : [Notebook](https://www.kaggle.com/dansbecker/as-with) with lesson
 * **10. As & With** : [Notebook](https://www.kaggle.com/mbeveridge/exercise-as-with/edit) with exercises
-* [Livestream (recording 17/7/19)](https://www.youtube.com/watch?v=Hk3OK2G5U5I) (~30min + 30min Q&A) [*[@5'40](https://youtu.be/Hk3OK2G5U5I?t=340) "So that's how `AS` works"*] [*[@6'10](https://youtu.be/Hk3OK2G5U5I?t=370) "But we can also use `WITH` [and `AS`] to refer to an entire table that we have `SELECT` & created" (...as a variable, but only within scope of that query)*]
+* [Livestream (recording 17/7/19)](https://www.youtube.com/watch?v=Hk3OK2G5U5I) (~30min + 30min Q&A) [*[@5'40](https://youtu.be/Hk3OK2G5U5I?t=340) "So that's how `AS` works"*] [*[@6'10](https://youtu.be/Hk3OK2G5U5I?t=370) "But we can also use `WITH` [and `AS`] to refer to a 'CTE' (common table expression) that we have `SELECT` & created" (...but only within scope of that query)*] [*[@10'26](https://youtu.be/Hk3OK2G5U5I?t=626) "I see people tend to use single letters for aliasing in this way" ...but I suggest not*] [*[@14'12](https://youtu.be/Hk3OK2G5U5I?t=852) "This query's doing a couple of things, so let's walk through it"*] [*[@21'00](https://youtu.be/Hk3OK2G5U5I?t=1260) "One of the things that I hear a lot, from software engineers, when they're talking about code that they get from data scientists... [be more modular and import from a script]"*] [*[@24'01](https://youtu.be/Hk3OK2G5U5I?t=1441) "Let's ... get questions"*]
+
+*Rachel's ['With and As Scratchpad'](https://www.kaggle.com/rebeccaturner/with-and-as-scratchpad) kernel, created during Livestream (but not made public yet)*
 
 *['Kaggle > Discussion > Learn'](https://www.kaggle.com/learn-forum) for the forum, to ask questions*
