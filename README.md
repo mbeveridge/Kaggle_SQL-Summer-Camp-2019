@@ -81,6 +81,8 @@
 
 * **11. Joining Data** : [Notebook](https://www.kaggle.com/dansbecker/joining-data) with lesson
 * **12. Joining Data** : [Notebook](https://www.kaggle.com/mbeveridge/exercise-joining-data/edit) with exercises
-* [Livestream (recording 18/7/19)](https://www.youtube.com/watch?v=_ERmqiYnrNs) (~30min + 30min Q&A) [*[@3'01](https://youtu.be/_ERmqiYnrNs?t=181) "I was going to show you that in GoogleSheets, you can actually write SQL queries ... (but I think it's going to take too long)"*] [*[3'20-4'10](https://youtu.be/_ERmqiYnrNs) 'super duper fast review'*] [*[@9'37](https://youtu.be/_ERmqiYnrNs?t=577) "So, we want to join these two tables together"*]
+* [Livestream (recording 18/7/19)](https://www.youtube.com/watch?v=_ERmqiYnrNs) (~30min + 30min Q&A) [*[@3'01](https://youtu.be/_ERmqiYnrNs?t=181) "I was going to show you that in GoogleSheets, you can actually write SQL queries ... (but I think it's going to take too long)"*] [*[3'20-4'10](https://youtu.be/_ERmqiYnrNs) 'super duper fast review'*] [*[@9'37](https://youtu.be/_ERmqiYnrNs?t=577) "So, we want to join these two tables together"*] [*[@19'57](https://youtu.be/_ERmqiYnrNs?t=1197) "And we want to look at the number of files per license..." so will need to `JOIN`*] [*[@24'50](https://youtu.be/_ERmqiYnrNs?t=1490) "And I'm going to just print out the `head` of that dataframe"*] [*[@28'32](https://youtu.be/_ERmqiYnrNs?t=1712) "It is time for questions"*]
+
+*Rachel's ['Join Scratchpad'](https://www.kaggle.com/rebeccaturner/join-scratchpad) kernel, created during Livestream*
 
 *['Kaggle > Discussion > Learn'](https://www.kaggle.com/learn-forum) for the forum, to ask questions*
