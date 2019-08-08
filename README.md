@@ -86,3 +86,8 @@
 *Rachel's ['Join Scratchpad'](https://www.kaggle.com/rebeccaturner/join-scratchpad) kernel, created during Livestream*
 
 *['Kaggle > Discussion > Learn'](https://www.kaggle.com/learn-forum) for the forum, to ask questions*
+
+
+## EXTRA: BigQuery ML Workshop (2019-08-07)
+
+[Livestream (recording 7/8/19)](https://www.youtube.com/watch?v=a1onYwwFqj0) (~30min + 30min Q&A)
