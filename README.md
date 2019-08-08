@@ -90,4 +90,8 @@
 
 ## EXTRA: BigQuery ML Workshop (2019-08-07)
 
-[Livestream (recording 7/8/19)](https://www.youtube.com/watch?v=a1onYwwFqj0) (~30min + 30min Q&A)
+"Today we’re going to be training and deploying ML models using BigQuery Machine Learning"
+
+* [Notebook](https://www.kaggle.com/rtatman/bigquery-machine-learning-tutorial) with tutorial
+* [Notebook](https://www.kaggle.com/rtatman/bigquery-machine-learning-exercise) with exercises
+* [Livestream (recording 7/8/19)](https://www.youtube.com/watch?v=a1onYwwFqj0) (~30min + 30min Q&A) [*[@1'53](https://youtu.be/a1onYwwFqj0?t=113) "Let's call this project 'rachael bqml tutorial'"*] [*[@2'31](https://youtu.be/a1onYwwFqj0?t=151) "And the one I just made isn't showing up, because I haven't got any datasets or models in it yet"*] [*[@2'59](https://youtu.be/a1onYwwFqj0?t=179) "We're ready to start going"*]
