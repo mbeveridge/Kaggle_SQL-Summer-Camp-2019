@@ -109,7 +109,7 @@
 
 "Waaaay back during the very first day of camp, we talked about how relational databases are made of multiple tables and, during the second week of camp, we briefly talked about joins. Today we’re going to dig a little deeper into different ways to combine data from across different tables"
 
-* [Notebook] with lesson
-* [Notebook] with exercises
-* Livestream (recording 27/8/19) (~30min + 30min Q&A)
+* [Notebook](https://www.kaggle.com/alexisbcook/joins-and-unions) with lesson
+* [Notebook](https://www.kaggle.com/mbeveridge/exercise-joins-and-unions/edit) with exercises
+* [Livestream](https://www.youtube.com/watch?v=tC0I2m3FP0Y) (recording 27/8/19) (~30min + 30min Q&A) []
 
