@@ -111,5 +111,16 @@
 
 * [Notebook](https://www.kaggle.com/alexisbcook/joins-and-unions) with lesson
 * [Notebook](https://www.kaggle.com/mbeveridge/exercise-joins-and-unions/edit) with exercises
-* [Livestream](https://www.youtube.com/watch?v=tC0I2m3FP0Y) (recording 27/8/19) (~30min + 30min Q&A) []
+* [Livestream](https://www.youtube.com/watch?v=tC0I2m3FP0Y) (recording 27/8/19) (~30min + 30min Q&A) [*[@1'41](https://youtu.be/tC0I2m3FP0Y?t=101) "You don't have to finish the 4th lesson ["Writing Efficient Queries"], to get the certificate"*]
+
+
+## [Advanced] Day2: Analytic Functions
+######(2019-08-28)
+
+"Today we’re going to learn how to do calculations over groups of rows, right in SQL. Sure, you could do some of this in Python or R ... but SQL will do it much, much faster. ([This person](https://towardsdatascience.com/python-vs-sql-comparison-for-data-pipelines-8ca727b34032) found a 14.5X speed up by switching the same data processing from Python to SQL)"
+
+* [Notebook](https://www.kaggle.com/alexisbcook/analytic-functions) with lesson
+* [Notebook](https://www.kaggle.com/mbeveridge/exercise-analytic-functions/edit) with exercises
+* [Livestream](https://www.youtube.com/watch?v=q1aL1XH69pQ) (recording 28/8/19) (~30min + 30min Q&A)
+
 
