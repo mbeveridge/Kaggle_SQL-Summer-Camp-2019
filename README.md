@@ -111,7 +111,7 @@
 
 * [Notebook](https://www.kaggle.com/alexisbcook/joins-and-unions) with lesson
 * [Notebook](https://www.kaggle.com/mbeveridge/exercise-joins-and-unions/edit) with exercises
-* [Livestream](https://www.youtube.com/watch?v=tC0I2m3FP0Y) (recording 27/8/19) (~30min + 30min Q&A) [*[@1'41](https://youtu.be/tC0I2m3FP0Y?t=101) "You don't have to finish the 4th lesson ["Writing Efficient Queries"], to get the certificate"*] [*[@16'23](https://youtu.be/tC0I2m3FP0Y?t=983) "Adding this [dataset] to my notebook gives me the permissions to read from this dataset"*] [*[@22'56](https://youtu.be/tC0I2m3FP0Y?t=1376) "Let's write a Query"*]
+* [Livestream](https://www.youtube.com/watch?v=tC0I2m3FP0Y) (recording 27/8/19) (~30min + 30min Q&A) [*[@1'41](https://youtu.be/tC0I2m3FP0Y?t=101) "You don't have to finish the 4th lesson ["Writing Efficient Queries"], to get the certificate"*] [*[@16'23](https://youtu.be/tC0I2m3FP0Y?t=983) "Adding this [dataset] to my notebook gives me the permissions to read from this dataset"*] [*[@22'56](https://youtu.be/tC0I2m3FP0Y?t=1376) "Let's write a Query"*] [*[@27'12](https://youtu.be/tC0I2m3FP0Y?t=1632) "SQL Queries are not actually evaluated, top to bottom, in the order that you write it"*] [*[@29'16](https://youtu.be/tC0I2m3FP0Y?t=1756) "Unfortunately we can't use `story_id` down here ... because the `JOIN` is evaluated before the `SELECT`"*] [*[@32'17](https://youtu.be/tC0I2m3FP0Y?t=1937) "So that's JOINs. Let's talk about UNIONs"*]
 
 *Rachel's 'Scratchpad' kernel, created during Livestream* - **NOT COMMITTED**
 
