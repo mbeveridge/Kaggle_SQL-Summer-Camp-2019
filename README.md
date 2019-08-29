@@ -89,7 +89,7 @@
 * [Notebook](https://www.kaggle.com/mbeveridge/exercise-joining-data/edit) with exercises
 * [Livestream (recording 18/7/19)](https://www.youtube.com/watch?v=_ERmqiYnrNs) (~30min + 30min Q&A) [*[@3'01](https://youtu.be/_ERmqiYnrNs?t=181) "I was going to show you that in GoogleSheets, you can actually write SQL queries ... (but I think it's going to take too long)"*] [*[3'20-4'10](https://youtu.be/_ERmqiYnrNs) 'super duper fast review'*] [*[@9'37](https://youtu.be/_ERmqiYnrNs?t=577) "So, we want to join these two tables together"*] [*[@19'57](https://youtu.be/_ERmqiYnrNs?t=1197) "And we want to look at the number of files per license..." so will need to `JOIN`*] [*[@24'50](https://youtu.be/_ERmqiYnrNs?t=1490) "And I'm going to just print out the `head` of that dataframe"*] [*[@28'32](https://youtu.be/_ERmqiYnrNs?t=1712) "It is time for questions"*] [*[@38'04](https://youtu.be/_ERmqiYnrNs?t=2284) "This is the order in which they're executed" (not order in which written)*] [*[@39'22](https://youtu.be/_ERmqiYnrNs?t=2362) "So `JOIN` comes 3rd in the execution order"*] [*[55'15](https://youtu.be/_ERmqiYnrNs?t=3315) "Again, I have never heard of 'Junction Tables' before, so that's something for me to research"*] [*[58'11](https://youtu.be/_ERmqiYnrNs?t=3491) "...I don't know the answer. There's a lot of reasons that it could be, and I just don't know"*]
 
-*Rachel's ['Join Scratchpad'](https://www.kaggle.com/rebeccaturner/join-scratchpad) kernel, created during Livestream*
+*Rachel's ['Join Scratchpad'](https://www.kaggle.com/rebeccaturner/join-scratchpad) kernel, created during Livestream* - **REMOVED**
 
 *['Kaggle > Discussion > Learn'](https://www.kaggle.com/learn-forum) for the forum, to ask questions*
 
@@ -111,7 +111,11 @@
 
 * [Notebook](https://www.kaggle.com/alexisbcook/joins-and-unions) with lesson
 * [Notebook](https://www.kaggle.com/mbeveridge/exercise-joins-and-unions/edit) with exercises
-* [Livestream](https://www.youtube.com/watch?v=tC0I2m3FP0Y) (recording 27/8/19) (~30min + 30min Q&A) [*[@1'41](https://youtu.be/tC0I2m3FP0Y?t=101) "You don't have to finish the 4th lesson ["Writing Efficient Queries"], to get the certificate"*]
+* [Livestream](https://www.youtube.com/watch?v=tC0I2m3FP0Y) (recording 27/8/19) (~30min + 30min Q&A) [*[@1'41](https://youtu.be/tC0I2m3FP0Y?t=101) "You don't have to finish the 4th lesson ["Writing Efficient Queries"], to get the certificate"*] [*[@16'23](https://youtu.be/tC0I2m3FP0Y?t=983) "Adding this [dataset] to my notebook gives me the permissions to read from this dataset"*] [*[@22'56](https://youtu.be/tC0I2m3FP0Y?t=1376) "Let's write a Query"*]
+
+*Rachel's 'Scratchpad' kernel, created during Livestream* - **NOT COMMITTED**
+
+*['Kaggle > Discussion > Learn'](https://www.kaggle.com/learn-forum) for the forum, to ask questions*
 
 
 ## [Advanced] Day2: Analytic Functions
