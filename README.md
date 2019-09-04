@@ -9,7 +9,7 @@
 
 
 ## [Intro] Day1: Getting Started with SQL & BigQuery
-######(2019-06-25)
+###### (2019-06-25)
 
 "Today we’re going to learn what relational databases [are], when you should use them and how to interact with SQL datasets on Kaggle. Let’s jump right in"
 
@@ -25,7 +25,7 @@
 
 
 ## [Intro] Day2: Select, From & Where
-######(2019-06-26)
+###### (2019-06-26)
 
 "Now that you know what relational databases are and how to access BigQuery data on Kaggle we’re ready to start writing SQL code. Today we’ll cover the basic building blocks of SQL queries: select, from and where"
 
@@ -41,7 +41,7 @@
 
 
 ## [Intro] Day3: Group By, Having & Count
-######(2019-06-27)
+###### (2019-06-27)
 
 "Today we’re going to learn how to write SQL queries that will help summarize the data in the database and let you ask more complicated questions"
 
@@ -55,7 +55,7 @@
 
 
 ## [Intro] Day4: Order By, Extract & Dates
-######(2019-07-16)
+###### (2019-07-16)
 
 "Today we’re going to talk about how to sort the data you get back from your query and, even more importantly, how to deal with dates"
 
@@ -67,7 +67,7 @@
 
 
 ## [Intro] Day5: As & With
-######(2019-07-17)
+###### (2019-07-17)
 
 "At this point we know quite a few SQL commands. As you write bigger and more complex queries, it becomes more important to break them into small, understandable chunks. Today we’ll learn how to do this using WITH and AS"
 
@@ -81,7 +81,7 @@
 
 
 ## [Intro] Day6: Joining Data
-######(2019-07-18)
+###### (2019-07-18)
 
 "We’ve learned a lot about how to get data out of one table in our database… but what about when we want to combine information from more than one table? That’s where joins come in, and that’s what we’ll be going over today"
 
@@ -95,7 +95,7 @@
 
 
 ## [EXTRA]: BigQuery ML Workshop
-######(2019-08-07)
+###### (2019-08-07)
 
 "Today we’re going to be training and deploying ML models using BigQuery Machine Learning"
 
@@ -107,7 +107,7 @@
 
 
 ## [Advanced] Day1: JOINs & UNIONs
-######(2019-08-27)
+###### (2019-08-27)
 
 "Waaaay back during the very first day of camp, we talked about how relational databases are made of multiple tables and, during the second week of camp, we briefly talked about joins. Today we’re going to dig a little deeper into different ways to combine data from across different tables"
 
@@ -121,7 +121,7 @@
 
 
 ## [Advanced] Day2: Analytic Functions
-######(2019-08-28)
+###### (2019-08-28)
 
 "Today we’re going to learn how to do calculations over groups of rows, right in SQL. Sure, you could do some of this in Python or R ... but SQL will do it much, much faster. ([This person](https://towardsdatascience.com/python-vs-sql-comparison-for-data-pipelines-8ca727b34032) found a 14.5X speed up by switching the same data processing from Python to SQL)"
 
@@ -131,7 +131,7 @@
 
 
 ## [Advanced] Day3: Nested & Repeated Data
-######(2019-08-29)
+###### (2019-08-29)
 
 "It’s the very last day of the SQL Summer Camp. We’ve saved something really good for you today: how to handle nested and repeated data in SQL. This will let you handle things like storing and reading small JSON files in your  database"
 
@@ -141,7 +141,7 @@
 
 
 ## [Advanced][Bonus/Day4]: Writing Efficient Queries
-######(2019-08-30)
+###### (2019-08-30)
 
 "I've gotten a lot of questions about this, so I figured y'all would find it helpful. :)"
 
