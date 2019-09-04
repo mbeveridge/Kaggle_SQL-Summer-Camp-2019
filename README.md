@@ -127,7 +127,7 @@
 
 * [Notebook](https://www.kaggle.com/alexisbcook/analytic-functions) with lesson
 * [Notebook](https://www.kaggle.com/mbeveridge/exercise-analytic-functions) with exercises. **DONE**
-* [Livestream](https://www.youtube.com/watch?v=q1aL1XH69pQ) (recording 28/8/19) (~30min + 30min Q&A)
+* [Livestream](https://www.youtube.com/watch?v=q1aL1XH69pQ) (recording 28/8/19) (~30min + 30min Q&A) [*[@0'18](https://youtu.be/q1aL1XH69pQ?t=18) "I personally have heard them called 'Window Functions' more than 'Analytic Functions'"*] [*[@4'20](https://youtu.be/q1aL1XH69pQ?t=260) "The difference between Aggregate functions and Analytic functions is that Aggregate functions compress the whole Group"*] [*[@6'45](https://youtu.be/q1aL1XH69pQ?t=405) "Let's look at the syntax"*] [*[@7'11](https://youtu.be/q1aL1XH69pQ?t=431) "We write it sort of similarly to how we would write a Common Table Expression (almost)"*] [*[@8'33](https://youtu.be/q1aL1XH69pQ?t=513) "Because ~Aggregate~ functions are applied over rows based on the order that the rows appear in, you're going to want to order them in some way, probably"*]
 
 
 ## [Advanced] Day3: Nested & Repeated Data
