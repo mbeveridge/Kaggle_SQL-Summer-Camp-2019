@@ -141,7 +141,7 @@
 
 * [Notebook](https://www.kaggle.com/alexisbcook/nested-and-repeated-data) with lesson
 * [Notebook](https://www.kaggle.com/mbeveridge/exercise-nested-and-repeated-data) with exercises. **DONE**
-* [Livestream](https://www.youtube.com/watch?v=jGI7u148Br0) (recording 29/8/19) (~30min + 30min Q&A)
+* [Livestream](https://www.youtube.com/watch?v=jGI7u148Br0) (recording 29/8/19) (~30min + 30min Q&A) [*[@4'40](https://youtu.be/jGI7u148Br0?t=280) "This is an example of data that is not 'Tidy'"*] [*[@5'00](https://youtu.be/jGI7u148Br0?t=300) "Hierarchical data has a tree structure to it"*]
 
 
 ## [Advanced][Bonus/Day4]: Writing Efficient Queries
