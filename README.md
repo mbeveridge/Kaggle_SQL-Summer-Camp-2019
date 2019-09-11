@@ -2,7 +2,7 @@
 ###### with Rachael Tatman
 
 * [[Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)] course, 'with some additional stuff from [Rachael]' ...(25-27/6/19, 16-18/7/19)
-* [EXTRA]: BigQuery ML Workshop ...(7/8/19)
+* [EXTRA]: [BigQuery ML Workshop](https://www.kaggle.com/rtatman/bigquery-machine-learning-tutorial) ...(7/8/19)
 * [[Advanced SQL](https://www.kaggle.com/learn/advanced-sql)] course ...(27-30/8/19)
 
 
@@ -143,6 +143,8 @@
 * [Notebook](https://www.kaggle.com/mbeveridge/exercise-nested-and-repeated-data) with exercises. **DONE**
 * [Livestream](https://www.youtube.com/watch?v=jGI7u148Br0) (recording 29/8/19) (~30min + 30min Q&A) [*[@4'40](https://youtu.be/jGI7u148Br0?t=280) "This is an example of data that is not 'Tidy'"*] [*[@5'00](https://youtu.be/jGI7u148Br0?t=300) "Hierarchical data has a tree structure to it"*] [*[@6'54](https://youtu.be/jGI7u148Br0?t=414) "You can store hierarchical data, in cells in BigQuery ... This seems to be more common when people are working with web data"*] [*[@7'51](https://youtu.be/jGI7u148Br0?t=471) "You wouldn't ... be able to 'nest' things ... That's not really how tables work. So that's why hierarchical data gets used"*] [*[@9'53](https://youtu.be/jGI7u148Br0?t=593) "This 4th column here is a* **`RECORD`**, *and inside the `RECORD` we have 2 fields"*] [*[@11'51](https://youtu.be/jGI7u148Br0?t=711) "You can also have* **'repeated' data**"] [*[@12'43](https://youtu.be/jGI7u148Br0?t=763) "We could store this in a table using 6 rows ... or we could store it using a 'repeated' data structure [in 3 rows]"*] [*[@13'33](https://youtu.be/jGI7u148Br0?t=813) "When you look in the schema for these, you can see that it looks pretty much the same until we get to this 3rd attribute ... [which is not `NULLABLE`, but] `REPEATED`"*] [*[@14'33](https://youtu.be/jGI7u148Br0?t=873) "If we wanted to go from this repeated data structure into the long one, where we had 6 rows, we could do that using this `UNNEST()` function"*] [*[@16'15](https://youtu.be/jGI7u148Br0?t=975) "So, we have nested data, we have repeated data ... [and] we can have Data that is both nested* **and** *repeated"*] [*[@18'05](https://youtu.be/jGI7u148Br0?t=1085) "Let's work through some examples"*] [*[@18'49](https://youtu.be/jGI7u148Br0?t=1129) "This is a new feature, this just launched ... I'm very excited about this. If you're looking at a public dataset and see something with a blue underline"*] [*[@23'55](https://youtu.be/jGI7u148Br0?t=1435) "Now that we're ... a little bit more comfortable with the Schema, let's check out a Query"*] [*[@25'19](https://youtu.be/jGI7u148Br0?t=1519) "Because we are doing an aggregate function, we need to also aggregate or `GROUP BY` all of our other variables that we `SELECT`"*] [*[@26'16](https://youtu.be/jGI7u148Br0?t=1576) "The only thing that should be new here ... is that we are looking into each of these fields, using this 'dot notation'. But what if we had repeated data?"*] [*[@28'06](https://youtu.be/jGI7u148Br0?t=1686) "We can see, looking at the Schema, that 'hits' ... has a pretty complex schema ... We can see that it's a `RECORD`, so we expect it to be a nested data structure. We can see that it's `REPEATED` ... square brackets are for `REPEATED` data"*] [*[@29'51](https://youtu.be/jGI7u148Br0?t=1791) "That's why we have two periods [`hits.page.pagePath`] here"*] [*[@30'49](https://youtu.be/jGI7u148Br0?t=1849) "But remember ... the 'hits' column is repeated, so in order to make sure we can get that information out we need to `UNNEST()` it first"*] [*[@33'26](https://youtu.be/jGI7u148Br0?t=2006) "And now, let's turn to the Chat, for questions"*] [*[@45'43](https://youtu.be/jGI7u148Br0?t=2743) "I think there's a practical limit to the number of hierarchical levels you can have [in BigQuery]. But I don't think there's (like) a technical limit"*] [*[@46'00](https://youtu.be/jGI7u148Br0?t=2760) "There's types of SQL that are for hierarchical data [specifically] ... [so in extreme conditions use those] rather than a tabular version"*] [*[@54'39](https://youtu.be/jGI7u148Br0?t=3279) "The best practice is to place the largest table first, followed by the smallest, and then by decreasing size"*] [*[@57'03](https://youtu.be/jGI7u148Br0?t=3423) "That's why there's a cutoff date, cos I only want to run the query once, [because] it's going to be a big one"*]
 
+*['Kaggle > Discussion > Learn'](https://www.kaggle.com/learn-forum) for the forum, to ask questions*
+
 
 ## [Advanced][Bonus/Day4]: Writing Efficient Queries
 ###### (2019-08-30)
@@ -150,6 +152,8 @@
 "I've gotten a lot of questions about this, so I figured y'all would find it helpful. :)"
 
 * [Notebook](https://www.kaggle.com/alexisbcook/writing-efficient-queries) with lesson
-* [Notebook] with exercises
-* [Livestream](https://www.youtube.com/watch?v=quVRFptxvnU) (recording 30/8/19)
+* [Notebook](https://www.kaggle.com/mbeveridge/exercise-writing-efficient-queries) with exercises
+* [Livestream](https://www.youtube.com/watch?v=quVRFptxvnU) (recording 30/8/19) (~30min + 30min Q&A) []
+
+*['Kaggle > Discussion > Learn'](https://www.kaggle.com/learn-forum) for the forum, to ask questions*
 
