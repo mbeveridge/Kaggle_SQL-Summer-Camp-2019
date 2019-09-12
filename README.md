@@ -153,7 +153,7 @@
 
 * [Notebook](https://www.kaggle.com/alexisbcook/writing-efficient-queries) with lesson
 * [Notebook](https://www.kaggle.com/mbeveridge/exercise-writing-efficient-queries) with exercises
-* [Livestream](https://www.youtube.com/watch?v=quVRFptxvnU) (recording 30/8/19) (~30min + 30min Q&A) []
+* [Livestream](https://www.youtube.com/watch?v=quVRFptxvnU) (recording 30/8/19) (~30min + 30min Q&A) [*[@3'13](https://youtu.be/quVRFptxvnU?t=193) "If we're not talking about optimisation [(for speed), and we're not, today], what is it that we are talking about?"*] [*[@6'45](https://youtu.be/quVRFptxvnU?t=405) "We're going to use these functions to see how much data we're actually scanning. And then think about some tweaks that we can make to our queries, to make them scan less data and run faster"*]
 
 *['Kaggle > Discussion > Learn'](https://www.kaggle.com/learn-forum) for the forum, to ask questions*
 
