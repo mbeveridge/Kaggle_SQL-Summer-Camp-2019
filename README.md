@@ -159,4 +159,4 @@
 
 ---
 
-![certificate](sql_summer_camp_certificate.pdf "certificate")
+![certificate](sql_summer_camp_certificate.png "certificate")
