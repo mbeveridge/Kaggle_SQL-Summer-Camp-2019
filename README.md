@@ -157,3 +157,6 @@
 
 *['Kaggle > Discussion > Learn'](https://www.kaggle.com/learn-forum) for the forum, to ask questions*
 
+---
+
+![certificate](sql_summer_camp_certificate.pdf "certificate")
