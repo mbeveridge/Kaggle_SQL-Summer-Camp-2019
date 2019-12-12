@@ -162,3 +162,5 @@
 ---
 
 ![certificate](sql_summer_camp_certificate.png "certificate")
+
+![certificate](KaggleSQLSummerCampCertificate_100388.png "2nd certificate")
